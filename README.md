@@ -27,8 +27,3 @@
 <p>
   Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
 </p>
-
-<h2>License</h2>
-<p>
-  This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.
-</p>
